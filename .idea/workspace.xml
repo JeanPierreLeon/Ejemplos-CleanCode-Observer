@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="158e96f5-296a-40ad-8dd5-40eef43f3f9b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/co.edu.uniquindio.cleancodefx/src/main/java/co/edu/uniquindio/cleancodefx/cleacodeapp/app/cleacodeapp/clean-code.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/co.edu.uniquindio.cleancodefx/src/main/java/co/edu/uniquindio/cleancodefx/cleacodeapp/app/cleacodeapp/model/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/co.edu.uniquindio.cleancodefx/src/main/java/co/edu/uniquindio/cleancodefx/cleacodeapp/app/cleacodeapp/viewController/ViewController.java" afterDir="false" />
-    </list>
+    <list default="true" id="158e96f5-296a-40ad-8dd5-40eef43f3f9b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -27,9 +24,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2fVw8Z8rSsLesvJMNZ0MQQp0NT1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CalculadoraApp.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
